@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-11T20:26:56.060Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="j4cE4_fbtYR_A0qrnlcz" version="21.6.8" type="github">
+<mxfile modified="2023-08-11T20:30:29.194Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="G1-aJn_ldpzOrxqy_3Lj" version="21.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="3900" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="4025" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,6 +168,24 @@
         </mxCell>
         <mxCell id="8QtS0giNclpuASFGhLsA-753" value="&lt;div&gt;Close&lt;/div&gt;&lt;div&gt;Loss&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-940" y="806" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-754" value="í ½í²° Opportunities" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="921" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-755" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=0;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="922" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-756" value="&lt;div&gt;Working&lt;/div&gt;&lt;div&gt;Pipeline&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1150" y="927" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-757" value="&lt;div&gt;Free&lt;/div&gt;&lt;div&gt;POC&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="927" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-758" value="&lt;div&gt;Close&lt;/div&gt;&lt;div&gt;WON&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="927" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-759" value="&lt;div&gt;Close&lt;/div&gt;&lt;div&gt;Loss&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="927" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
