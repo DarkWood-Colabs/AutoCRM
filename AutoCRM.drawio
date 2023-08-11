@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-11T20:00:26.448Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="G0KHgzDrVJkW-LtGCnGW" version="21.6.8" type="github">
+<mxfile modified="2023-08-11T20:02:53.225Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Mg0rRBDqlfRalIh3spj3" version="21.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="4170" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="3714" dy="194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QtS0giNclpuASFGhLsA-727" value="Leads" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
+        <mxCell id="8QtS0giNclpuASFGhLsA-748" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0.25;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8QtS0giNclpuASFGhLsA-721" source="8QtS0giNclpuASFGhLsA-727" target="8QtS0giNclpuASFGhLsA-744">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-727" value="í ¼í¾¯ Leads" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
           <mxGeometry x="60" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8QtS0giNclpuASFGhLsA-737" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0.206;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8QtS0giNclpuASFGhLsA-721" target="8QtS0giNclpuASFGhLsA-736">
@@ -118,7 +121,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8QtS0giNclpuASFGhLsA-728" value="ToDo Lists" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
+        <mxCell id="8QtS0giNclpuASFGhLsA-728" value="â˜‘ï¸&amp;nbsp; ToDo" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
           <mxGeometry x="60" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8QtS0giNclpuASFGhLsA-732" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="8QtS0giNclpuASFGhLsA-721" source="8QtS0giNclpuASFGhLsA-727" target="8QtS0giNclpuASFGhLsA-727">
@@ -142,13 +145,13 @@
         <mxCell id="8QtS0giNclpuASFGhLsA-744" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=0;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
           <mxGeometry x="200" y="240" width="310" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8QtS0giNclpuASFGhLsA-745" value="&lt;div&gt;Not&lt;/div&gt;&lt;div&gt;Started&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
+        <mxCell id="8QtS0giNclpuASFGhLsA-745" value="&lt;div&gt;Lead&lt;/div&gt;&lt;div&gt;Template&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
           <mxGeometry x="210" y="245" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8QtS0giNclpuASFGhLsA-746" value="&lt;div&gt;In&lt;/div&gt;&lt;div&gt;Progress&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
+        <mxCell id="8QtS0giNclpuASFGhLsA-746" value="&lt;div&gt;Qualified&lt;/div&gt;&lt;div&gt;Leads&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
           <mxGeometry x="325" y="245" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8QtS0giNclpuASFGhLsA-747" value="&lt;div&gt;Complete&lt;/div&gt;&lt;div&gt;_/&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
+        <mxCell id="8QtS0giNclpuASFGhLsA-747" value="&lt;div&gt;Not&lt;br&gt;&lt;/div&gt;&lt;div&gt;Qualified&lt;/div&gt;&lt;div&gt;Leads&lt;br&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="8QtS0giNclpuASFGhLsA-721">
           <mxGeometry x="440" y="245" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
