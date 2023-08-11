@@ -1,4 +1,4 @@
-<mxfile modified="2023-08-11T14:37:13.358Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="iXkukZG8MX00IWNQ_ZZ5" version="21.6.8" type="github">
+<mxfile modified="2023-08-11T14:53:28.872Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="eZzUrC2kIP6C4vYO44cW" version="21.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="1243" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="1">
       <root>
@@ -159,10 +159,10 @@
         <mxCell id="jaFNCjxHBDIDp4KI0RfO-728" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="jaFNCjxHBDIDp4KI0RfO-723" target="707">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jaFNCjxHBDIDp4KI0RfO-723" value="Google Apps" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="jaFNCjxHBDIDp4KI0RfO-723" value="Google Apps" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="600" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jaFNCjxHBDIDp4KI0RfO-724" value="&lt;div&gt;+Sheets&lt;/div&gt;&lt;div&gt;+Meets&lt;/div&gt;+Gmail" style="align=left;strokeColor=#2D7600;fillColor=#60a917;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontColor=#ffffff;" vertex="1" parent="jaFNCjxHBDIDp4KI0RfO-723">
+        <mxCell id="jaFNCjxHBDIDp4KI0RfO-724" value="&lt;div&gt;+Sheets&lt;/div&gt;&lt;div&gt;+Meets&lt;/div&gt;+Gmail" style="align=left;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="jaFNCjxHBDIDp4KI0RfO-723">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
