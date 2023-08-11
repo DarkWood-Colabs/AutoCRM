@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-11T21:29:51.574Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="4Noqy6tZUxIj4XjGzks_" version="21.6.8" type="github">
+<mxfile modified="2023-08-11T21:34:18.481Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="O8oAO7ESzF67CqGloq67" version="21.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="5475" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="6200" dy="1360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,11 +216,6 @@
         <mxCell id="8QtS0giNclpuASFGhLsA-788" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.google_drive" vertex="1" parent="8QtS0giNclpuASFGhLsA-763">
           <mxGeometry x="40" y="440" width="80" height="70" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font style=&quot;font-size: 30px;&quot;&gt;ChickPea&lt;/font&gt;" treeRoot="1" id="8QtS0giNclpuASFGhLsA-720">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-            <mxGeometry x="-1880" y="80" width="390" height="150" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="8QtS0giNclpuASFGhLsA-772" value="Work Flow Analysis" style="swimlane;startSize=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="-3140" y="997" width="600" height="720" as="geometry" />
         </mxCell>
@@ -250,6 +245,9 @@
         </mxCell>
         <mxCell id="8QtS0giNclpuASFGhLsA-781" value="Payment" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.payment;" vertex="1" parent="1">
           <mxGeometry x="-2680" y="1450" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-789" value="&lt;div&gt;&lt;font style=&quot;font-size: 58px;&quot;&gt;ChickPea&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 32px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 32px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Work Flow &amp;amp;System Analysis &lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=14;fontStyle=1;shadow=0;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="-2080" y="40" width="560" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
