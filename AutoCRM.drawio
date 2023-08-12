@@ -1,6 +1,6 @@
-<mxfile modified="2023-08-12T00:14:11.717Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="kykDFKzlGZfwHi9Tlqc2" version="21.6.8" type="github">
+<mxfile modified="2023-08-12T00:25:09.432Z" host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Zbd9TUQ4X7bgcjw8v7ms" version="21.6.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="4013" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="4307" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,6 +322,15 @@
         </mxCell>
         <mxCell id="8QtS0giNclpuASFGhLsA-829" value="&lt;b&gt;&lt;font size=&quot;1&quot;&gt;&lt;u style=&quot;font-size: 16px;&quot;&gt;Enable AI&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="8QtS0giNclpuASFGhLsA-828">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-831" value="&lt;font style=&quot;font-size: 9px;&quot; color=&quot;#00ff00&quot;&gt;git clone https://github.com/yuhgto/monday-ai-prompt-template&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="8QtS0giNclpuASFGhLsA-828">
+          <mxGeometry x="200" y="120" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-832" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8QtS0giNclpuASFGhLsA-830" target="8QtS0giNclpuASFGhLsA-831">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QtS0giNclpuASFGhLsA-830" value="Clone Repo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="360" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
